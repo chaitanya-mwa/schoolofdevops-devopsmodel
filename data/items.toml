@@ -29,7 +29,7 @@ url = "https://www.docker.com/sites/default/files/WP_Docker%20and%20the%203%20wa
 [[items]]
 title = "Docker Tools"
 image = "images/dev/zeef.png"
-thumb = "images/ops/zeef.png"
+thumb = "images/ops/ZEEF.png"
 alt = "Docker Tools"
 description = "Wanna check how many tools are there for you to implement DevOps?"
 url = "https://dev-ops-tools.zeef.com/richard.kraayenhagen"
