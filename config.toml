@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://devopsmodel.com/"
 languageCode = "en-us"
-title = "Hugrid - Grid Theme For Hugo"
+title = "DevOps Model - One Stop Shop for DevOps reference material"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -13,17 +13,17 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
+    title = "DevOps Model - One Stop Shop for DevOps reference material"
+    subtitle = "The place where you can find anything and everything about DevOps"
+    author = "School of DevOps"
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    keywords = "DevOps, School, of"
 
     # Body background color
 	bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "Click here!"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made by [School of DevOps](http://schookofdevops.com/)"
