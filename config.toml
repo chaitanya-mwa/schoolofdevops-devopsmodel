@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://devopsmodel.com/"
 languageCode = "en-us"
-title = "DevOps Model - One Stop Shop for DevOps reference material"
+title = "DevOps Model - One Stop Shop for DevOps reference materials"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
